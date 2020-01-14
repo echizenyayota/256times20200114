@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.title {
+  font-weight: bold;
+}
+
+li {
+  border-bottom: 1px solid #eee;
+  margin-top: 10px;
+}
+
+li:last-of-type {
+  border-bottom:none;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+  float: left
+}
+
